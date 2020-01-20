@@ -19,4 +19,4 @@ Each link in the checklists below opens a file of instructions. As you complete 
 - [ ] [Learn JavaScript](./learnJavaScript.md)
 - [ ] [Learn SQL](./learnSQL.md)
 - [ ] Read about the [Model-View-Controller](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller) design pattern
-- [ ] Read about conventions for [REST](http://microformats.org/wiki/rest/urls) requests
+- [x] Read about conventions for [REST](http://microformats.org/wiki/rest/urls) requests
